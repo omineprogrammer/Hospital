@@ -1,3 +1,8 @@
 
 .vs
-
+.vs/*
+*.cache
+.vs/WindowsFormsApp1/v15/Server/sqlite3/storage.ide-shm
+.vs/WindowsFormsApp1/v15/Server/sqlite3/storage.ide-wal
+WindowsFormsApp1/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+WindowsFormsApp1/obj/Debug/WindowsFormsApp1.csproj.CoreCompileInputs.cache
