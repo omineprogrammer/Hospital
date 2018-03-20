@@ -13,5 +13,9 @@ namespace WindowsFormsApp1 {
         public Form4() {
             InitializeComponent();
         }
+
+        private void richTextBox1_TextChanged(object sender, EventArgs e) {
+
+        }
     }
 }

@@ -32,7 +32,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(122, 22);
+            this.label1.Location = new System.Drawing.Point(111, 26);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(80, 13);
             this.label1.TabIndex = 0;
@@ -40,22 +40,22 @@
             // 
             // dateTimePicker1
             // 
-            this.dateTimePicker1.Location = new System.Drawing.Point(59, 50);
+            this.dateTimePicker1.Location = new System.Drawing.Point(197, 21);
             this.dateTimePicker1.Name = "dateTimePicker1";
             this.dateTimePicker1.Size = new System.Drawing.Size(200, 20);
             this.dateTimePicker1.TabIndex = 1;
             // 
             // listView1
             // 
-            this.listView1.Location = new System.Drawing.Point(59, 89);
+            this.listView1.Location = new System.Drawing.Point(33, 50);
             this.listView1.Name = "listView1";
-            this.listView1.Size = new System.Drawing.Size(200, 97);
+            this.listView1.Size = new System.Drawing.Size(546, 238);
             this.listView1.TabIndex = 2;
             this.listView1.UseCompatibleStateImageBehavior = false;
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(279, 51);
+            this.button1.Location = new System.Drawing.Point(437, 21);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 3;
@@ -66,7 +66,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(382, 262);
+            this.ClientSize = new System.Drawing.Size(613, 318);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.listView1);
             this.Controls.Add(this.dateTimePicker1);
