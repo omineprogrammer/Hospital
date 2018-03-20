@@ -13,5 +13,15 @@ namespace WindowsFormsApp1 {
         public Form1() {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e) {
+            if ((textBox1.Text == "pepe") && (textBox2.Text == "12345")) {
+                this.Hide();
+                Form3 frm = new Form3();
+                frm.Show();
+            } else {
+                MessageBox.Show("Verifique su usuario y contraseña");
+            }
+        }
     }
 }

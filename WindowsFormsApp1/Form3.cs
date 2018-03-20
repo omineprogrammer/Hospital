@@ -13,5 +13,21 @@ namespace WindowsFormsApp1 {
         public Form3() {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e) {
+            this.Hide();
+
+            Form1 frm = new Form1();
+
+            frm.Show();
+        }
+
+        private void treeView1_AfterSelect(object sender, TreeViewEventArgs e) {
+            this.Hide();
+
+            Form4 frm = new Form4();
+
+            frm.Show();
+        }
     }
 }
