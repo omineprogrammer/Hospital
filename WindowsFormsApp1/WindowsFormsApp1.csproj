@@ -127,5 +127,11 @@
   <ItemGroup>
     <None Include="Resources\clinica.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo reina catalina.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\log_clinica.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

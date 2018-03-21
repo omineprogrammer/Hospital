@@ -11,6 +11,29 @@ namespace WindowsFormsApp1
         /// <summary>
         /// Punto de entrada principal para la aplicación.
         /// </summary>
+        /// 
+
+        //global vars
+        static string logfile = ".\\" + System.Diagnostics.Process.GetCurrentProcess().ProcessName + ".log";
+
+        //logger
+        public static void Logger(string category, string msg) {
+            System.IO.StreamWriter sw = System.IO.File.AppendText(logfile);
+            try {
+                string logLine = System.String.Format(
+                    "{0:G} {1} {2,8}: {3}.",
+                    System.DateTime.Now,
+                    System.Diagnostics.Process.GetCurrentProcess().MainModule.ModuleName + " " + System.Diagnostics.Process.GetCurrentProcess().Id,
+                    "[" + category + "]",
+                    msg
+                );
+                sw.WriteLine(logLine);
+            } finally {
+                sw.Close();
+            }
+        }
+
+
         [STAThread]
         static void Main()
         {
