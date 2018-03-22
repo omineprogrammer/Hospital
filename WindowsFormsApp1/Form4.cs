@@ -12,6 +12,7 @@ namespace WindowsFormsApp1 {
     public partial class Form4 : Form {
         public Form4() {
             InitializeComponent();
+<<<<<<< HEAD
             Program.Logger("INFO", this.Name + " initialized");
         }
 
@@ -91,6 +92,12 @@ namespace WindowsFormsApp1 {
                 timer1.Enabled = false;
                 Program.Logger("DEBG", "ProgressBar full: \"" + progressBar1.Value + "/" + progressBar1.Maximum + "\"");
             }
+=======
+        }
+
+        private void richTextBox1_TextChanged(object sender, EventArgs e) {
+
+>>>>>>> parent of 9ade601... 0.5
         }
     }
 }

@@ -24,7 +24,10 @@
         /// </summary>
         private void InitializeComponent() {
 <<<<<<< HEAD
+<<<<<<< HEAD
             this.components = new System.ComponentModel.Container();
+=======
+>>>>>>> parent of 9ade601... 0.5
             this.progressBar1 = new System.Windows.Forms.ProgressBar();
             this.numericUpDown1 = new System.Windows.Forms.NumericUpDown();
             this.maskedTextBox1 = new System.Windows.Forms.MaskedTextBox();
@@ -40,19 +43,29 @@
             this.label5 = new System.Windows.Forms.Label();
             this.richTextBox1 = new System.Windows.Forms.RichTextBox();
             this.label6 = new System.Windows.Forms.Label();
+<<<<<<< HEAD
             this.timer1 = new System.Windows.Forms.Timer(this.components);
+=======
+>>>>>>> parent of 9ade601... 0.5
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).BeginInit();
             this.SuspendLayout();
             // 
             // progressBar1
             // 
+<<<<<<< HEAD
             this.progressBar1.Location = new System.Drawing.Point(115, 284);
             this.progressBar1.Name = "progressBar1";
             this.progressBar1.Size = new System.Drawing.Size(278, 23);
+=======
+            this.progressBar1.Location = new System.Drawing.Point(132, 284);
+            this.progressBar1.Name = "progressBar1";
+            this.progressBar1.Size = new System.Drawing.Size(346, 23);
+>>>>>>> parent of 9ade601... 0.5
             this.progressBar1.TabIndex = 1;
             // 
             // numericUpDown1
             // 
+<<<<<<< HEAD
             this.numericUpDown1.Location = new System.Drawing.Point(89, 135);
             this.numericUpDown1.Name = "numericUpDown1";
             this.numericUpDown1.Size = new System.Drawing.Size(37, 20);
@@ -68,6 +81,19 @@
             this.maskedTextBox1.Size = new System.Drawing.Size(100, 20);
             this.maskedTextBox1.TabIndex = 3;
             this.maskedTextBox1.ValidatingType = typeof(int);
+=======
+            this.numericUpDown1.Location = new System.Drawing.Point(122, 125);
+            this.numericUpDown1.Name = "numericUpDown1";
+            this.numericUpDown1.Size = new System.Drawing.Size(37, 20);
+            this.numericUpDown1.TabIndex = 2;
+            // 
+            // maskedTextBox1
+            // 
+            this.maskedTextBox1.Location = new System.Drawing.Point(89, 18);
+            this.maskedTextBox1.Name = "maskedTextBox1";
+            this.maskedTextBox1.Size = new System.Drawing.Size(100, 20);
+            this.maskedTextBox1.TabIndex = 3;
+>>>>>>> parent of 9ade601... 0.5
             // 
             // button1
             // 
@@ -77,27 +103,42 @@
             this.button1.TabIndex = 4;
             this.button1.Text = "Guardar";
             this.button1.UseVisualStyleBackColor = true;
+<<<<<<< HEAD
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // monthCalendar1
             // 
             this.monthCalendar1.Location = new System.Drawing.Point(201, 18);
             this.monthCalendar1.MaxSelectionCount = 1;
+=======
+            // 
+            // monthCalendar1
+            // 
+            this.monthCalendar1.Location = new System.Drawing.Point(230, 18);
+>>>>>>> parent of 9ade601... 0.5
             this.monthCalendar1.Name = "monthCalendar1";
             this.monthCalendar1.TabIndex = 5;
             // 
             // maskedTextBox2
             // 
+<<<<<<< HEAD
             this.maskedTextBox2.BeepOnError = true;
             this.maskedTextBox2.Location = new System.Drawing.Point(89, 107);
             this.maskedTextBox2.Mask = "000-000-0000";
+=======
+            this.maskedTextBox2.Location = new System.Drawing.Point(89, 99);
+>>>>>>> parent of 9ade601... 0.5
             this.maskedTextBox2.Name = "maskedTextBox2";
             this.maskedTextBox2.Size = new System.Drawing.Size(100, 20);
             this.maskedTextBox2.TabIndex = 6;
             // 
             // textBox1
             // 
+<<<<<<< HEAD
             this.textBox1.Location = new System.Drawing.Point(89, 48);
+=======
+            this.textBox1.Location = new System.Drawing.Point(89, 44);
+>>>>>>> parent of 9ade601... 0.5
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(100, 20);
             this.textBox1.TabIndex = 7;
@@ -123,7 +164,11 @@
             // label3
             // 
             this.label3.AutoSize = true;
+<<<<<<< HEAD
             this.label3.Location = new System.Drawing.Point(16, 81);
+=======
+            this.label3.Location = new System.Drawing.Point(16, 77);
+>>>>>>> parent of 9ade601... 0.5
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(44, 13);
             this.label3.TabIndex = 10;
@@ -132,7 +177,11 @@
             // label4
             // 
             this.label4.AutoSize = true;
+<<<<<<< HEAD
             this.label4.Location = new System.Drawing.Point(16, 137);
+=======
+            this.label4.Location = new System.Drawing.Point(16, 132);
+>>>>>>> parent of 9ade601... 0.5
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(32, 13);
             this.label4.TabIndex = 11;
@@ -140,7 +189,11 @@
             // 
             // textBox2
             // 
+<<<<<<< HEAD
             this.textBox2.Location = new System.Drawing.Point(89, 78);
+=======
+            this.textBox2.Location = new System.Drawing.Point(89, 70);
+>>>>>>> parent of 9ade601... 0.5
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(100, 20);
             this.textBox2.TabIndex = 12;
@@ -148,7 +201,11 @@
             // label5
             // 
             this.label5.AutoSize = true;
+<<<<<<< HEAD
             this.label5.Location = new System.Drawing.Point(16, 110);
+=======
+            this.label5.Location = new System.Drawing.Point(16, 106);
+>>>>>>> parent of 9ade601... 0.5
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(39, 13);
             this.label5.TabIndex = 13;
@@ -156,11 +213,20 @@
             // 
             // richTextBox1
             // 
+<<<<<<< HEAD
             this.richTextBox1.Location = new System.Drawing.Point(115, 192);
             this.richTextBox1.Name = "richTextBox1";
             this.richTextBox1.Size = new System.Drawing.Size(278, 73);
             this.richTextBox1.TabIndex = 0;
             this.richTextBox1.Text = "";
+=======
+            this.richTextBox1.Location = new System.Drawing.Point(132, 192);
+            this.richTextBox1.Name = "richTextBox1";
+            this.richTextBox1.Size = new System.Drawing.Size(346, 73);
+            this.richTextBox1.TabIndex = 0;
+            this.richTextBox1.Text = "";
+            this.richTextBox1.TextChanged += new System.EventHandler(this.richTextBox1_TextChanged);
+>>>>>>> parent of 9ade601... 0.5
             // 
             // label6
             // 
@@ -171,6 +237,7 @@
             this.label6.TabIndex = 14;
             this.label6.Text = "Observaciones";
             // 
+<<<<<<< HEAD
             // timer1
             // 
             this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
@@ -353,11 +420,17 @@
             // 
             this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
             // 
+=======
+>>>>>>> parent of 9ade601... 0.5
             // Form4
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+<<<<<<< HEAD
             this.ClientSize = new System.Drawing.Size(415, 334);
+=======
+            this.ClientSize = new System.Drawing.Size(503, 334);
+>>>>>>> parent of 9ade601... 0.5
             this.Controls.Add(this.label6);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.textBox2);
@@ -379,7 +452,10 @@
             this.ResumeLayout(false);
             this.PerformLayout();
 
+<<<<<<< HEAD
 >>>>>>> 9ade601249ea9e7434b88cf4a1075bf449bab749
+=======
+>>>>>>> parent of 9ade601... 0.5
         }
 
         #endregion
@@ -398,11 +474,15 @@
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.RichTextBox richTextBox1;
 <<<<<<< HEAD
+<<<<<<< HEAD
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Timer timer1;
 =======
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Timer timer1;
 >>>>>>> 9ade601249ea9e7434b88cf4a1075bf449bab749
+=======
+        private System.Windows.Forms.Label label6;
+>>>>>>> parent of 9ade601... 0.5
     }
 }
