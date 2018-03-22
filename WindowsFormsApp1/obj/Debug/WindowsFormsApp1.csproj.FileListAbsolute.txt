@@ -13,3 +13,18 @@ C:\Users\Jhony\Documents\GitHub\Hospital\WindowsFormsApp1\bin\Debug\WindowsForms
 C:\Users\Jhony\Documents\GitHub\Hospital\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
 C:\Users\Jhony\Documents\GitHub\Hospital\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\Jhony\Documents\GitHub\Hospital\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+\\Mac\Home\Documents\Ingenieria en Sistemas\Visual Studio Projects\Taller2\Hospital\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+\\Mac\Home\Documents\Ingenieria en Sistemas\Visual Studio Projects\Taller2\Hospital\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+\\Mac\Home\Documents\Ingenieria en Sistemas\Visual Studio Projects\Taller2\Hospital\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+\\Mac\Home\Documents\Ingenieria en Sistemas\Visual Studio Projects\Taller2\Hospital\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Ingenieria en Sistemas\Visual Studio Projects\Taller2\Hospital\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+\\Mac\Home\Documents\Ingenieria en Sistemas\Visual Studio Projects\Taller2\Hospital\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+\\Mac\Home\Documents\Ingenieria en Sistemas\Visual Studio Projects\Taller2\Hospital\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+\\Mac\Home\Documents\Ingenieria en Sistemas\Visual Studio Projects\Taller2\Hospital\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+\\Mac\Home\Documents\Ingenieria en Sistemas\Visual Studio Projects\Taller2\Hospital\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form5.resources
+\\Mac\Home\Documents\Ingenieria en Sistemas\Visual Studio Projects\Taller2\Hospital\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form6.resources
+\\Mac\Home\Documents\Ingenieria en Sistemas\Visual Studio Projects\Taller2\Hospital\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+\\Mac\Home\Documents\Ingenieria en Sistemas\Visual Studio Projects\Taller2\Hospital\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Ingenieria en Sistemas\Visual Studio Projects\Taller2\Hospital\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Ingenieria en Sistemas\Visual Studio Projects\Taller2\Hospital\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+\\Mac\Home\Documents\Ingenieria en Sistemas\Visual Studio Projects\Taller2\Hospital\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

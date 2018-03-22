@@ -125,3 +125,47 @@
 21/03/2018 17:23:23 WindowsFormsApp1.exe 5568   [DEBG]: All fields checked, ok.
 21/03/2018 17:23:23 WindowsFormsApp1.exe 5568   [DEBG]: Execution transfer to timer1.
 21/03/2018 17:23:29 WindowsFormsApp1.exe 5568   [DEBG]: ProgressBar full: "100/100".
+21/03/2018 19:34:46 WindowsFormsApp1.exe 4420   [INFO]: Form1 initialized.
+21/03/2018 19:35:42 WindowsFormsApp1.exe 4420   [INFO]: Form3 initialized.
+21/03/2018 19:35:42 WindowsFormsApp1.exe 4420   [INFO]: User user logged.
+21/03/2018 19:35:48 WindowsFormsApp1.exe 4420   [INFO]: Form4 initialized.
+21/03/2018 19:35:48 WindowsFormsApp1.exe 4420   [INFO]: Go to Form4.
+21/03/2018 19:36:10 WindowsFormsApp1.exe 4420   [DEBG]: Field Cedula: "123456789".
+21/03/2018 19:36:10 WindowsFormsApp1.exe 4420   [DEBG]: Field Nombre: "pepe".
+21/03/2018 19:36:10 WindowsFormsApp1.exe 4420   [DEBG]: Field Apellido: perez".
+21/03/2018 19:36:10 WindowsFormsApp1.exe 4420   [DEBG]: Field Celular: 123-456-7890".
+21/03/2018 19:36:10 WindowsFormsApp1.exe 4420   [DEBG]: Field Edad: 0".
+21/03/2018 19:36:10 WindowsFormsApp1.exe 4420   [DEBG]: Field monthCalendar1: "18/03/2018 0:00:00".
+21/03/2018 19:36:10 WindowsFormsApp1.exe 4420   [DEBG]: All fields checked, ok.
+21/03/2018 19:36:10 WindowsFormsApp1.exe 4420   [DEBG]: Execution transfer to timer1.
+21/03/2018 19:36:12 WindowsFormsApp1.exe 4420   [DEBG]: ProgressBar full: "100/100".
+21/03/2018 19:37:35 WindowsFormsApp1.exe 3120   [INFO]: Form1 initialized.
+21/03/2018 19:38:04 WindowsFormsApp1.exe 3120   [INFO]: Form3 initialized.
+21/03/2018 19:38:04 WindowsFormsApp1.exe 3120   [INFO]: User user logged.
+21/03/2018 19:38:10 WindowsFormsApp1.exe 3120   [INFO]: Form4 initialized.
+21/03/2018 19:38:10 WindowsFormsApp1.exe 3120   [INFO]: Go to Form4.
+21/03/2018 19:38:32 WindowsFormsApp1.exe 3120   [DEBG]: Field Cedula: "123456".
+21/03/2018 19:38:32 WindowsFormsApp1.exe 3120   [DEBG]: Field Nombre: "pepe".
+21/03/2018 19:38:32 WindowsFormsApp1.exe 3120   [DEBG]: Field Apellido: peres".
+21/03/2018 19:38:32 WindowsFormsApp1.exe 3120   [DEBG]: Field Celular: 123-456-7890".
+21/03/2018 19:38:32 WindowsFormsApp1.exe 3120   [DEBG]: Field Edad: 0".
+21/03/2018 19:38:32 WindowsFormsApp1.exe 3120   [DEBG]: Field monthCalendar1: "07/03/2018 0:00:00".
+21/03/2018 19:38:32 WindowsFormsApp1.exe 3120   [DEBG]: All fields checked, ok.
+21/03/2018 19:38:32 WindowsFormsApp1.exe 3120   [DEBG]: Execution transfer to timer1.
+21/03/2018 19:38:34 WindowsFormsApp1.exe 3120   [DEBG]: ProgressBar full: "100/100".
+21/03/2018 19:38:34 WindowsFormsApp1.exe 3120   [DEBG]: Wew Row: "System.String[]".
+21/03/2018 19:41:42 WindowsFormsApp1.exe 4736   [INFO]: Form1 initialized.
+21/03/2018 19:42:00 WindowsFormsApp1.exe 4736   [INFO]: Form3 initialized.
+21/03/2018 19:42:00 WindowsFormsApp1.exe 4736   [INFO]: User user logged.
+21/03/2018 19:42:05 WindowsFormsApp1.exe 4736   [INFO]: Form4 initialized.
+21/03/2018 19:42:05 WindowsFormsApp1.exe 4736   [INFO]: Go to Form4.
+21/03/2018 19:42:46 WindowsFormsApp1.exe 4736   [DEBG]: Field Cedula: "1234567".
+21/03/2018 19:42:47 WindowsFormsApp1.exe 4736   [DEBG]: Field Nombre: "pepe".
+21/03/2018 19:42:47 WindowsFormsApp1.exe 4736   [DEBG]: Field Apellido: opkfposdkf".
+21/03/2018 19:42:47 WindowsFormsApp1.exe 4736   [DEBG]: Field Celular: 123-456-7890".
+21/03/2018 19:42:47 WindowsFormsApp1.exe 4736   [DEBG]: Field Edad: 0".
+21/03/2018 19:42:47 WindowsFormsApp1.exe 4736   [DEBG]: Field monthCalendar1: "21/03/2018 0:00:00".
+21/03/2018 19:42:47 WindowsFormsApp1.exe 4736   [DEBG]: All fields checked, ok.
+21/03/2018 19:42:47 WindowsFormsApp1.exe 4736   [DEBG]: Execution transfer to timer1.
+21/03/2018 19:42:49 WindowsFormsApp1.exe 4736   [DEBG]: ProgressBar full: "100/100".
+21/03/2018 19:42:49 WindowsFormsApp1.exe 4736   [DEBG]: Wew Row: "System.String[]".

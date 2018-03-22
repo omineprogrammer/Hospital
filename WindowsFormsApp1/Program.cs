@@ -33,6 +33,8 @@ namespace WindowsFormsApp1
             }
         }
 
+        //db
+        public static string[][] db = { };
 
         [STAThread]
         static void Main()
