@@ -91,17 +91,22 @@ namespace WindowsFormsApp1 {
         }
 
         private void InsertDB() {
-            String[] row = {
-                maskedTextBox1.Text, //cedula
-                textBox1.Text, //nombre
-                textBox2.Text, //apellido
-                maskedTextBox2.ToString(), //celular
-                monthCalendar1.SelectionStart.ToString() //fecha
-            };
-            Program.Logger("DEBG", "Wew Row: \"" + row.ToString() + "\"");
-            Program.db[Program.db.Length] = row;
-            Program.Logger("DEBG", "New Row registered in DB: \"" + Program.db.Length + "[" + "]" + "\"");
+            Program.db.Add(
+                new ListViewItem(
+                    new string[] {
+                        maskedTextBox1.Text, //cedula
+                        textBox1.Text, //nombre
+                        textBox2.Text, //apellido
+                        maskedTextBox2.Text, //celular
+                        monthCalendar1.SelectionStart.ToString() //fecha
+                    }
+                )
+            );
+            Program.Logger("DEBG", "New insert to DB, Count: \"" + Program.db.Count + "\"");
         }
 
+        private void button2_Click(object sender, EventArgs e) {
+            Program.ReturnMainMenu(this);
+        }
     }
 }

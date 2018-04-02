@@ -37,10 +37,7 @@ namespace WindowsFormsApp1 {
         }
 
         private void button2_Click(object sender, EventArgs e) {
-            this.Hide();
-            Form1 frm = new Form1();
-            frm.Show();
-            Program.Logger("INFO", "Closed session");
+            Program.Logout(this);
         }
     }
 }

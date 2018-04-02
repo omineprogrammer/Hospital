@@ -22,7 +22,7 @@ namespace WindowsFormsApp1
             try {
                 string logLine = System.String.Format(
                     "{0:G} {1} {2,8}: {3}.",
-                    System.DateTime.Now,
+                    System.DateTime.Now.ToUniversalTime(),
                     System.Diagnostics.Process.GetCurrentProcess().MainModule.ModuleName + " " + System.Diagnostics.Process.GetCurrentProcess().Id,
                     "[" + category + "]",
                     msg
@@ -34,7 +34,19 @@ namespace WindowsFormsApp1
         }
 
         //db
-        public static string[][] db = { };
+        public static List<ListViewItem> db = new List<ListViewItem> { };
+
+        public static void Logout(Form form) {
+            form.Hide();
+            new Form1().Show();
+            Program.Logger("INFO", "Closed session");
+        }
+
+        public static void ReturnMainMenu(Form form) {
+            form.Hide();
+            new Form3().Show();
+            Program.Logger("INFO", "Exit to main menu");
+        }
 
         [STAThread]
         static void Main()
